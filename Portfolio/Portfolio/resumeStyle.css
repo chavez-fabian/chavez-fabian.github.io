@@ -1,0 +1,18 @@
+body {background-color: lightgray;}
+h1{color: black;}
+h1{font-family:monospace}
+h1{border: solid}
+h1{background-color: lightblue}
+h1{text-align: center}
+
+p{color: black}
+p{background-color: lightpink}
+p{font-family: monospace}
+p{text-align: center}
+p{
+    height: 10%;
+padding: 6px}
+iframe{vertical-align: middle}
+
+button{display: inline-block}
+button{border: solid}

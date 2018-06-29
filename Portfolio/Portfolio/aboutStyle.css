@@ -1,0 +1,24 @@
+*{property:box-sizing:border-box;}
+body {background-color: lightgray;}
+body{background-size: auto}
+body{font-size: Vm}
+h1{color: black;}
+h1{font-family:monospace}
+h1{border: solid}
+h1{background-color: lightblue}
+h1{align-content: center}
+h1{text-align: center}
+h1{display: inline-block}
+
+p{color: black}
+p{background-color: lightpink}
+p{font-family: monospace}
+p{text-align: left}
+p{padding: 5px}
+P{margin:}
+p{border: dotted}
+p{shape-margin: circle}
+p{box-sizing: border-box}
+
+button{display: inline-block}
+button{border: solid}
