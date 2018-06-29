@@ -10,9 +10,10 @@ p{background-color: lightpink}
 p{font-family: monospace}
 p{text-align: center}
 p{
-    height: 10%;
 padding: 6px}
 iframe{vertical-align: middle}
+iframe{box-sizing: border-box}
+
 
 button{display: inline-block}
 button{border: solid}

@@ -8,17 +8,29 @@ h1{border: solid}
 h1{background-color: lightblue}
 h1{align-content: center}
 h1{text-align: center}
-h1{display: inline-block}
+h1{display:table-header-group}
+
+nav{display: inline-table}
+nav{border: solid}
+nav{tab-size: 30px}
+nav{font-family: monospace}
+nav{width: auto}
+nav{border-color: lightblue}
+button{border-color: lightblue}
+button{border-radius: 20px}
+nav{border-radius: 20px}
+button{width: auto}
+button{font-family: monospace}
+button{color: lightpink}
+a{color: crimson}
+
 
 p{color: black}
 p{background-color: lightpink}
 p{font-family: monospace}
 p{text-align: left}
-p{padding: 5px}
-P{margin:}
-p{border: dotted}
+p{padding: 10px}
 p{shape-margin: circle}
 p{box-sizing: border-box}
-
-button{display: inline-block}
-button{border: solid}
+p{display: flex}
+p{border-radius: 10px}
