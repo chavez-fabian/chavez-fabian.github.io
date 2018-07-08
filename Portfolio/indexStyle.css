@@ -25,15 +25,11 @@ h1{border-color: lightgrey}
 
 
 nav{display: inline-table}
-navy
-nav{tab-size: 30px}
 nav{font-family: monospace}
-nav{width: auto}
 nav{border-color: lightblue}
 button{border-color: lightblue}
 button{border-radius: 20px}
 nav{border-radius: 20px}
-button{width: 100px}
 button{font-family: monospace}
 button{color: lightpink}
 a{color: black}
